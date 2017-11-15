@@ -1,0 +1,14 @@
+.wrapper{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.col.izda{
+    width: 50%;
+    float: left;
+}
+
+.col.dcha{
+    width:50%;
+    float: left;
+}
