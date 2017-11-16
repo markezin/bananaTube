@@ -30,12 +30,12 @@
 }
 
 .header {
-    background-color: aqua;
     width: 100%;
     float: left;
 }
 
 .enlace1 {
+    background-color: greenyellow;
     width: 33%;
     float: left;
 }
@@ -46,6 +46,7 @@
 }
 
 .enlace2 {
+    background-color: yellow;
     width: 33%;
     float: left;
 }
@@ -56,6 +57,7 @@
 }
 
 .enlace3 {
+    background-color: yellowgreen;
     width: 33%;
     float: left;
 }
@@ -72,6 +74,7 @@
 
 .logo {
     width: 100%;
+    background-color: darkorange;
 }
 
 .logo img {
@@ -79,7 +82,34 @@
     margin-left: 40%; 
 }
 
-.Titulo {
+.titulo {
+    width: 20%;
+    margin-left: 40%;
+    text-align: center;
+}
+
+.buscar {
     width: 100%;
-    margin-left: 0 auto;
+    float: left;
+}
+
+.barra {
+    width: 70%;
+    float: left;
+}
+
+.barra img {
+    width: 100%; 
+    max-width: 100%;
+    margin-bottom: 50%;
+}
+
+.agenda {
+    width: 30%;
+    float: left;
+}
+
+.agenda img {
+    width: 40%;
+    float: left;
 }
