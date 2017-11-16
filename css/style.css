@@ -83,6 +83,7 @@
 }
 
 .titulo {
+    background-color: blueviolet;
     width: 20%;
     margin-left: 40%;
     text-align: center;
@@ -94,14 +95,14 @@
 }
 
 .barra {
-    width: 70%;
+    width: 60%;
     float: left;
+    margin-left: 10%;
 }
 
 .barra img {
     width: 100%; 
     max-width: 100%;
-    margin-bottom: 50%;
 }
 
 .agenda {
@@ -110,6 +111,51 @@
 }
 
 .agenda img {
-    width: 40%;
+    width: 27%;
     float: left;
+    margin-top: 19%;
+}
+
+.escritura {
+    width: 100%;
+}
+
+.pantalla {
+    width: 70%;
+    margin-left: 15%;
+}
+
+.teclado {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+.teclado img {
+    width: 100%;
+}
+
+.video {
+    width: 100%
+}
+
+.video1 {
+    width: 100%;
+    text-align: center;
+}
+
+.video1 img{
+    width: 70%; 
+}
+
+.fb {
+    width: 100%;
+}
+
+.icono {
+    width: 100%;
+    text-align: center;
+}
+
+.icono img {
+    width: 15%;
 }
