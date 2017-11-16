@@ -1,14 +1,85 @@
-.wrapper{
+.wrapper {
     width: 960px;
     margin: 0 auto;
 }
 
-.col.izda{
+.contacto {
+    width: 100%;
+    float: left;
+}
+.col-izda {
     width: 50%;
+    float: left;
+    height: 100px;
+}
+
+.col-dcha {
+    width: 50%;
+    float: left;
+    height: 100px;
+}
+
+.col-izda img {
+    width: 20%;
+    margin-left: 80%;
+}
+
+.col-dcha img {
+    width: 17%;
+    margin-right: 83%
+}
+
+.header {
+    background-color: aqua;
+    width: 100%;
     float: left;
 }
 
-.col.dcha{
-    width:50%;
+.enlace1 {
+    width: 33%;
     float: left;
+}
+
+.enlace1 img {
+    width: 30%;
+    margin-left: 30%;
+}
+
+.enlace2 {
+    width: 33%;
+    float: left;
+}
+
+.enlace2 img {
+    width: 10%;
+    margin-left: 45%;
+}
+
+.enlace3 {
+    width: 33%;
+    float: left;
+}
+
+.enlace3 img {
+    width: 20%;
+    margin-left: 40%;
+}
+
+.arriba {
+    width: 100%;
+    float: left;
+}
+
+.logo {
+    width: 100%;
+}
+
+.logo img {
+    width: 20%;
+    margin-left: 40%; 
+}
+
+.Titulo {
+    width: 100%;
+    margin-left: 0 auto;
 }
