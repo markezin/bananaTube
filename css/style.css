@@ -159,3 +159,17 @@
 .icono img {
     width: 15%;
 }
+
+.bananaLogIn {
+    text-align: center;
+}
+
+.bocadillo {
+    width: 82%;
+    text-align: center;
+    margin-right: 15%;
+}
+
+.col-izda input {
+    text-align: center;
+}
