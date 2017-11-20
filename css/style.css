@@ -170,6 +170,35 @@
     margin-right: 15%;
 }
 
-.col-izda input {
+.main {
+    width: 100%;
+    float: left;
+}
+.col_izda {
+    width: 50%;
+    float: left;
+    margin-top: 19px;
+}
+
+.col_izda input {
+    width: 65%;
+    margin-left: 33%;
     text-align: center;
+}
+
+.col_dcha { 
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+}
+
+.botonRegistro {
+    width: 100%;
+    float: left;
+    margin-left: 26.5%;
+    margin-top: 20px;
+}
+
+.background1 {
+    background-color: chartreuse;
 }
